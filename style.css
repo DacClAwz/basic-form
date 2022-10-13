@@ -1,0 +1,46 @@
+form{
+	background-color: white;
+	width:325px;
+  height:300px;
+	margin-top:17%;
+	margin-left: 40%;
+	padding: 30px;
+	border-radius: 30px;
+}
+
+
+.form input {
+	margin-top: 15px;
+  padding: 5px;
+  border-radius:10px ;
+}
+
+.form label{
+  font-size:25px;
+}
+
+.form button {
+  margin-top: 30px;
+  margin-left: 35%;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 10px;
+}
+.form h1{
+  font-size: 50px;
+  margin-left: 70px;
+}
+
+
+body {
+	background-color: #b8cccb;
+}
+
+.form button:hover {
+	background-color: #8f9c9b
+  
+}
+
+
